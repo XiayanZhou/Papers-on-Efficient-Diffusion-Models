@@ -8,7 +8,7 @@ Research on Efficient Diffusion Model Research
 
 - [1_U-Net_Architecture](#_1_U-Net_Architecture)
 - - [_1.1_Quantization](#_1.1_Quantization)
-- - - [_1.1.1_PTQ_(Post-Traning-Quantization)](#_1.1.1_PTQ_(Post-Traning-Quantization)
+- - - [_1.1.1_PTQ_(Post-Traning-Quantization)](#_1.1.1_PTQ_(Post-Traning-Quantization))
 - - - [_1.1.2_QAT_(Quantization-Aware-Traning)](#_1.1.2_QAT_(Quantization-Aware-Traning))
 - - [_1.2_Pruning_&_Structure_Distillation](#_1.2_Pruning_&_Structure_Distillation)
 - - - [_1.2.1_Pruning](#_1.2.1_Pruning)
@@ -21,18 +21,18 @@ Research on Efficient Diffusion Model Research
 - - [_1.6_GAN-Based_Method](#_1.6_GAN-Based_Method)
 - - [_1.7_Efficient_Training](#_1.7_Efficient_Training)
 - - [_1.8_New_Architecture_Design](#_1.8_New_Architecture_Design)
-- - [1.9_Other_Methods](#1.9. Other Methods)
-- [_2_Transformer Architecture](#2. Transformer Architecture)
-- - [_2.1_Quantization](#2.1. Quantization)
-- - - [_2.1.1_PTQ_(Post-Traning-Quantization)](#2.1.1_PTQ_(Post-Traning-Quantization))
-- - - [_2.1.2_QAT_(Quantization-Aware-Traning)](#2.1.2_QAT_(Quantization-Aware-Traning))
-- - [_2.2_Pruning & Structure Distillation](#2.2. Pruning & Structure Distillation)
-- - - [_2.2.1_Pruning ](#2.2.1. Pruning )
-- - - [_2.2.2_Structure Distillation](#2.2.2. Structure Distillation)
-- - [_2.3_Feature Cache & Reuse](#2.3. Feature Cache & Reuse)
-- - [_2.4_Timestep Distallation](#2.4. Timestep Distallation)
-- - [_2.5_New Architecture Design](#2.5. New Architecture Design)
-- - [_2.6_Other Methods](#2.6. Other Methods)
+- - [1.9_Other_Methods](#_1.9_Other_Methods)
+- [_2_Transformer Architecture](#_2_Transformer_Architecture)
+- - [_2.1_Quantization](#_2.1_Quantization)
+- - - [_2.1.1_PTQ_(Post-Traning-Quantization)](#_2.1.1_PTQ_(Post-Traning-Quantization))
+- - - [_2.1.2_QAT_(Quantization-Aware-Traning)](#_2.1.2_QAT_(Quantization-Aware-Traning))
+- - [_2.2_Pruning & Structure Distillation](#_2.2_Pruning_&_Structure_Distillation)
+- - - [_2.2.1_Pruning](#_2.2.1_Pruning)
+- - - [_2.2.2_Structure Distillation](#_2.2.2_Structure_Distillation)
+- - [_2.3_Feature Cache & Reuse](#_2.3_Feature_Cache_&_Reuse)
+- - [_2.4_Timestep Distallation](#_2.4_Timestep_Distallation)
+- - [_2.5_New Architecture Design](#_2.5_New_Architecture_Design)
+- - [_2.6_Other Methods](#_2.6_Other_Methods)
 - [Contact](#Contact)
 
 
@@ -40,9 +40,9 @@ Research on Efficient Diffusion Model Research
 
 # _1_U-Net_Architecture
 
-## _1.1._Quantization
+## _1.1_Quantization
 
-### 1.1.1. PTQ (Post-Traning-Quantization)
+### _1.1.1_PTQ_(Post-Traning-Quantization)
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
