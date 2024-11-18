@@ -3,13 +3,10 @@ Research on Efficient Diffusion Model Research
 
 **Purpose:** We aim to provide a summary of neural image compression. More papers will be summarized. 
 
-University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
-
-
 
 # Table of Contents
 
-- [1. U-Net Architecture](#1. U-Net Architecture)
+- [1.U-Net Architecture](#1.U-Net Architecture)
 - - [1.1. Quantization](#1.1. Quantization)
 - - - [1.1.1. PTQ (Post-Traning-Quantization)](#1.1.1. PTQ (Post-Traning-Quantization))
 - - - [1.1.2. QAT (Quantization-Aware-Traning)](#1.1.2. QAT (Quantization-Aware-Traning))
@@ -41,7 +38,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 
 
-# 1. U-Net Architecture
+# 1.U-Net Architecture
 
 ## 1.1. Quantization
 
@@ -260,7 +257,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 
 If you have any suggestions or find our work helpful, feel free to contact us.
 
-Homepage: [???](https://???.github.io)
+Homepage: University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
 
 Email: ???.com
 
