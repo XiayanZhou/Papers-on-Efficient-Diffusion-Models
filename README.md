@@ -1,11 +1,14 @@
 # Research-on-Efficient-Diffusion-Model-Research
 
-  **Purpose:** We aim to provide a summary of **Efficient Diffusion Model**. More papers will be summarized. If you have any suggestions or find our work helpful, feel free to contact us. If you find our survey is useful in your research or applications, please consider giving us a star 🌟.
+  **Purpose:** We aim to provide a summary of **Efficient Diffusion Model**. More papers will be summarized.
 
-  **Homepage:** University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
+  **Homepage:** University of Science and Technology of China (USTC), [Intelligent Media Computing Lab (IMCL)](https://faculty.ustc.edu.cn/chenzhibo).
 
-  **Email:** ???.com
+  **Email:** xxxxxxx@mail.ustc.edu.cn
 
+  If you have any suggestions or find our work helpful, feel free to contact us.
+  
+  If you find our survey is useful in your research or applications, please consider giving us a star 🌟.
 
 ## Table of Contents
 
