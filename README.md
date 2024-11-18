@@ -4,7 +4,7 @@ Research on Efficient Diffusion Model Research
 **Purpose:** We aim to provide a summary of neural image compression. More papers will be summarized. 
 
 
-# Table of Contents
+## Table of Contents
 
 - [1.U-Net Architecture](#1.U-Net Architecture)
 - - [1.1. Quantization](#1.1. Quantization)
