@@ -10,10 +10,10 @@ Research on Efficient Diffusion Model Research
 - - [1-1_Quantization](#_1-1_Quantization)
 - - - [1-1-1_PTQ_(Post-Traning-Quantization)](#_1-1-1_PTQ_(Post-Traning-Quantization))
 - - - [1-1-2_QAT_(Quantization-Aware-Traning)](#_1-1-2_QAT_(Quantization-Aware-Traning))
-- - [1-2_Pruning_&_Structure_Distillation](#_1-2_Pruning_&_Structure_Distillation)
+- - [1-2_Pruning_&_Structure_Distillation](#_1-2_Pruning_and_Structure_Distillation)
 - - - [1-2-1_Pruning](#_1-2-1_Pruning)
 - - - [1-2-2_Structure_Distillation](#_1-2-2_Structure_Distillation)
-- - [1-3_Feature_Cache_&_Reuse](#_1-3_Feature_Cache_&_Reuse)
+- - [1-3_Feature_Cache_&_Reuse](#_1-3_Feature_Cache_and_Reuse)
 - - [1-4_Timestep_Distallation](#_1-4_Timestep_Distallation)
 - - - [1-4-1_ODE_Preserving_Distallation](#_1-4-1_ODE_Preserving_Distallation)
 - - - [1-4-2_ODE_Reconstructing_Distallation](#_1-4-2_ODE_Reconstructing_Distallation)
@@ -26,10 +26,10 @@ Research on Efficient Diffusion Model Research
 - - [2-1_Quantization](#_2-1_Quantization)
 - - - [2-1-1_PTQ_(Post-Traning-Quantization)](#_2-1-1_PTQ_(Post-Traning-Quantization))
 - - - [2-1-2_QAT_(Quantization-Aware-Traning)](#_2-1-2_QAT_(Quantization-Aware-Traning))
-- - [2-2_Pruning & Structure Distillation](#_2-2_Pruning_&_Structure_Distillation)
-- - - [-2-1_Pruning](#_2.2.1_Pruning)
+- - [2-2_Pruning & Structure Distillation](#_2-2_Pruning_and_Structure_Distillation)
+- - - [-2-1_Pruning](#_2-2-1_Pruning)
 - - - [2-2-2_Structure Distillation](#_2-2-2_Structure_Distillation)
-- - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_&_Reuse)
+- - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_and_Reuse)
 - - [2-4_Timestep Distallation](#_2-4_Timestep_Distallation)
 - - [2-5_New Architecture Design](#_2-5_New_Architecture_Design)
 - - [2-6_Other Methods](#_2-6_Other_Methods)
@@ -66,7 +66,7 @@ Research on Efficient Diffusion Model Research
 
 
 
-## _1-2_Pruning_&_Structure_Distillation
+## _1-2_Pruning_and_Structure_Distillation
 
 ### _1-2-1_Pruning 
 
@@ -115,7 +115,7 @@ Research on Efficient Diffusion Model Research
 
 
 
-## _1-3_Feature_Cache_&_Reuse
+## _1-3_Feature_Cache_and_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
@@ -214,7 +214,7 @@ Research on Efficient Diffusion Model Research
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-2_Pruning_&_Structure_Distillation
+## _2-2_Pruning_and_Structure_Distillation
 
 ### _2-2-1_Pruning 
 
@@ -228,7 +228,7 @@ Research on Efficient Diffusion Model Research
 |---|---|---|---|---|
 
 
-## _2-3_Feature_Cache_&_Reuse
+## _2-3_Feature_Cache_and_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
