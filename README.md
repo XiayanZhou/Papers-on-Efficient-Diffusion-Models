@@ -8,31 +8,31 @@ Research on Efficient Diffusion Model Research
 
 - [1_U-Net_Architecture](#_1_U-Net_Architecture)
 - - [1-1_Quantization](#_1-1_Quantization)
-- - - [_1-1-1_PTQ_(Post-Traning-Quantization)](###_1-1-1_PTQ_(Post-Traning-Quantization))
-- - - [_1.1.2_QAT_(Quantization-Aware-Traning)](#_1.1.2_QAT_(Quantization-Aware-Traning))
-- - [_1.2_Pruning_&_Structure_Distillation](#_1.2_Pruning_&_Structure_Distillation)
-- - - [_1.2.1_Pruning](#_1.2.1_Pruning)
-- - - [_1.2.2_Structure_Distillation](#_1.2.2_Structure_Distillation)
-- - [_1.3_Feature_Cache_&_Reuse](#_1.3_Feature_Cache_&_Reuse)
-- - [_1.4_Timestep_Distallation](#_1.4_Timestep_Distallation)
-- - - [_1.4.1_ODE_Preserving_Distallation](#_1.4.1_ODE_Preserving_Distallation)
-- - - [_1.4.2_ODE_Reconstructing_Distallation](#_1.4.2_ODE_Reconstructing_Distallation)
-- - [_1.5_Fast_Sampling_Solver](#_1.5_Fast_Sampling_Solver)
-- - [_1.6_GAN-Based_Method](#_1.6_GAN-Based_Method)
-- - [_1.7_Efficient_Training](#_1.7_Efficient_Training)
-- - [_1.8_New_Architecture_Design](#_1.8_New_Architecture_Design)
-- - [1.9_Other_Methods](#_1.9_Other_Methods)
-- [_2_Transformer Architecture](#_2_Transformer_Architecture)
-- - [_2.1_Quantization](#_2.1_Quantization)
-- - - [_2.1.1_PTQ_(Post-Traning-Quantization)](#_2.1.1_PTQ_(Post-Traning-Quantization))
-- - - [_2.1.2_QAT_(Quantization-Aware-Traning)](#_2.1.2_QAT_(Quantization-Aware-Traning))
-- - [_2.2_Pruning & Structure Distillation](#_2.2_Pruning_&_Structure_Distillation)
-- - - [_2.2.1_Pruning](#_2.2.1_Pruning)
-- - - [_2.2.2_Structure Distillation](#_2.2.2_Structure_Distillation)
-- - [_2.3_Feature Cache & Reuse](#_2.3_Feature_Cache_&_Reuse)
-- - [_2.4_Timestep Distallation](#_2.4_Timestep_Distallation)
-- - [_2.5_New Architecture Design](#_2.5_New_Architecture_Design)
-- - [_2.6_Other Methods](#_2.6_Other_Methods)
+- - - [1-1-1_PTQ_(Post-Traning-Quantization)](#_1-1-1_PTQ_(Post-Traning-Quantization))
+- - - [1-1-2_QAT_(Quantization-Aware-Traning)](#_1-1-2_QAT_(Quantization-Aware-Traning))
+- - [1-2_Pruning_&_Structure_Distillation](#_1-2_Pruning_&_Structure_Distillation)
+- - - [1-2-1_Pruning](#_1-2-1_Pruning)
+- - - [1-2-2_Structure_Distillation](#_1-2-2_Structure_Distillation)
+- - [1-3_Feature_Cache_&_Reuse](#_1-3_Feature_Cache_&_Reuse)
+- - [1-4_Timestep_Distallation](#_1-4_Timestep_Distallation)
+- - - [1-4-1_ODE_Preserving_Distallation](#_1-4-1_ODE_Preserving_Distallation)
+- - - [1-4-2_ODE_Reconstructing_Distallation](#_1-4-2_ODE_Reconstructing_Distallation)
+- - [1-5_Fast_Sampling_Solver](#_1-.5_Fast_Sampling_Solver)
+- - [1-6_GAN-Based_Method](#_1-6_GAN-Based_Method)
+- - [1-7_Efficient_Training](#_1-7_Efficient_Training)
+- - [1-8_New_Architecture_Design](#_1-8_New_Architecture_Design)
+- - [1-9_Other_Methods](#_1-9_Other_Methods)
+- [2_Transformer Architecture](#_2_Transformer_Architecture)
+- - [2-1_Quantization](#_2-1_Quantization)
+- - - [2-1-1_PTQ_(Post-Traning-Quantization)](#_2-1-1_PTQ_(Post-Traning-Quantization))
+- - - [2-1-2_QAT_(Quantization-Aware-Traning)](#_2-1-2_QAT_(Quantization-Aware-Traning))
+- - [2-2_Pruning & Structure Distillation](#_2-2_Pruning_&_Structure_Distillation)
+- - - [-2-1_Pruning](#_2.2.1_Pruning)
+- - - [2-2-2_Structure Distillation](#_2-2-2_Structure_Distillation)
+- - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_&_Reuse)
+- - [2-4_Timestep Distallation](#_2-4_Timestep_Distallation)
+- - [2-5_New Architecture Design](#_2-5_New_Architecture_Design)
+- - [2-6_Other Methods](#_2-6_Other_Methods)
 - [Contact](#Contact)
 
 
@@ -56,7 +56,7 @@ Research on Efficient Diffusion Model Research
 
 
 
-### 1.1.2. QAT (Quantization-Aware-Traning)
+### _1-1-2_QAT_(Quantization-Aware-Traning)
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -66,9 +66,9 @@ Research on Efficient Diffusion Model Research
 
 
 
-## 1.2. Pruning & Structure Distillation
+## _1-2_Pruning_&_Structure_Distillation
 
-### 1.2.1. Pruning 
+### _1-2-1_Pruning 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Research on Efficient Diffusion Model Research
 
 
 
-### 1.2.2. Structure Distillation
+### _1-2-2_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ Research on Efficient Diffusion Model Research
 
 
 
-## 1.3. Feature Cache & Reuse
+## _1-3_Feature_Cache_&_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
@@ -133,21 +133,9 @@ Research on Efficient Diffusion Model Research
 
 
 
-## 1.4. Timestep Distallation
+## _1-4_Timestep_Distallation
 
-### 1.4.1. ODE Preserving Distallation
-
-| Title | arXiv | Github | WebSite | Pub. & Date |
-|---|---|---|---|---|
-|[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://arxiv.org/abs/2403.02332) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02332) | - | - | Mar., 2024 |
-|[Magic-Me: Identity-Specific Video Customized Diffusion](https://arxiv.org/abs/2402.09368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Zhen-Dong/Magic-Me) | Feb., 2024 |
-|[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03040) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/) | Feb., 2024 |
-|[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | Feb., 2024 |
-|[Boximator: Generating Rich and Controllable Motions for Video Synthesis](https://arxiv.org/abs/2402.01566) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01566) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://boximator.github.io/) | Feb., 2024 |
-|[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://arxiv.org/abs/2402.00769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00769) | - | -| Jan., 2024 |
-
-
-### 1.4.2. ODE Reconstructing Distallation
+### _1-4-1_ODE_Preserving_Distallation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
@@ -159,8 +147,20 @@ Research on Efficient Diffusion Model Research
 |[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://arxiv.org/abs/2402.00769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00769) | - | -| Jan., 2024 |
 
 
+### _1-4-2_ODE_Reconstructing_Distallation
 
-## 1.5. Fast Sampling Solver
+| Title | arXiv | Github | WebSite | Pub. & Date |
+|---|---|---|---|---|
+|[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://arxiv.org/abs/2403.02332) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02332) | - | - | Mar., 2024 |
+|[Magic-Me: Identity-Specific Video Customized Diffusion](https://arxiv.org/abs/2402.09368) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Zhen-Dong/Magic-Me) | Feb., 2024 |
+|[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03040) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/) | Feb., 2024 |
+|[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/) | Feb., 2024 |
+|[Boximator: Generating Rich and Controllable Motions for Video Synthesis](https://arxiv.org/abs/2402.01566) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01566) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://boximator.github.io/) | Feb., 2024 |
+|[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://arxiv.org/abs/2402.00769) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00769) | - | -| Jan., 2024 |
+
+
+
+## _1-5_Fast_Sampling_Solver
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
@@ -172,25 +172,25 @@ Research on Efficient Diffusion Model Research
 
 
 
-## 1.6. GAN-Based Method
+## _1-6_GAN-Based_Method
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
 
 
-## 1.7. Efficient Training
+## _1-7_Efficient_Training
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
 
 
-## 1.8. New Architecture Design
+## _1-8_New_Architecture_Design
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
 
 
-## 1.9. Other Methods
+## _1-9_Other_Methods
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
@@ -198,55 +198,55 @@ Research on Efficient Diffusion Model Research
 
 
 
-# 2. Transformer Architecture
+# _2_Transformer_Architecture
 
-## 2.1. Quantization
+## _2-1_Quantization
 
-### 2.1.1. PTQ (Post-Traning-Quantization)
+### _2-1-1_PTQ_(Post-Traning-Quantization)
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 
 
-### 2.1.2. QAT (Quantization-Aware-Traning)
+### _2-1-2_QAT_(Quantization-Aware-Traning)
 
 | Title | arXiv | Github| WebSite | Pub. & Date
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 
 
-## 2.2. Pruning & Structure Distillation
+## _2-2_Pruning_&_Structure_Distillation
 
-### 2.2.1. Pruning 
-
-| Title | arXiv | Github | WebSite | Pub. & Date |
-|---|---|---|---|---|
-
-
-### 2.2.1. Structure Distillation
+### _2-2-1_Pruning 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
 
 
-## 2.3. Feature Cache & Reuse
+### _2-2-1_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
 
 
-## 2.4. Timestep Distallation
+## _2-3_Feature_Cache_&_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
 
 
-## 2.5. New Architecture Design
+## _2-4_Timestep_Distallation
+
+| Title | arXiv | Github | WebSite | Pub. & Date |
+|---|---|---|---|---|
+
+
+## _2-5_New_Architecture_Design
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
 
 
-## 2.6. Other Methods
+## _2-6_Other_Methods
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
