@@ -6,9 +6,9 @@ Research on Efficient Diffusion Model Research
 
 ## Table of Contents
 
-- [_1_U-Net_Architecture](#_1_U-Net_Architecture)
+- [_1_U-Net_Architecture](#1_U-Net_Architecture)
 - - [_1.1_Quantization](#_1.1_Quantization)
-- - - [_1.1.1_PTQ_(Post-Traning-Quantization)](#1.1.1. PTQ (Post-Traning-Quantization))
+- - - [_1.1.1_PTQ_(Post-Traning-Quantization)](#_1.1.1_PTQ_(Post-Traning-Quantization)
 - - - [_1.1.2_QAT_(Quantization-Aware-Traning)](#1.1.2. QAT (Quantization-Aware-Traning))
 - - [_1.2_Pruning & Structure Distillation](#1.2. Pruning & Structure Distillation)
 - - - [_1.2.1_Pruning ](#1.2.1. Pruning )
