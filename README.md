@@ -1,12 +1,10 @@
 # Research-on-Efficient-Diffusion-Model-Research
-Research on Efficient Diffusion Model Research
 
-**Purpose:** We aim to provide a summary of neural image compression. More papers will be summarized. 
-
+  **Purpose:** We aim to provide a summary of **Efficient Diffusion Model**. More papers will be summarized.
 
 ## Table of Contents
 
-- [1_U-Net_Architecture](#_1_U-Net_Architecture)
+- [**1_U-Net_Architecture**](#_1_U-Net_Architecture)
 - - [1-1_Quantization](#_1-1_Quantization)
 - - - [1-1-1_PTQ_(Post-Traning-Quantization)](#_1-1-1_Post-Traning-Quantization)
 - - - [1-1-2_QAT_(Quantization-Aware-Traning)](#_1-1-2_Quantization-Aware-Traning)
@@ -22,7 +20,7 @@ Research on Efficient Diffusion Model Research
 - - [1-7_Efficient_Training](#_1-7_Efficient_Training)
 - - [1-8_New_Architecture_Design](#_1-8_New_Architecture_Design)
 - - [1-9_Other_Methods](#_1-9_Other_Methods)
-- [2_Transformer Architecture](#_2_Transformer_Architecture)
+- [**2_Transformer Architecture**](#_2_Transformer_Architecture)
 - - [2-1_Quantization](#_2-1_Quantization)
 - - - [2-1-1_PTQ_(Post-Traning-Quantization)](#_2-1-1_Post-Traning-Quantization)
 - - - [2-1-2_QAT_(Quantization-Aware-Traning)](#_2-1-2_Quantization-Aware-Traning)
@@ -32,8 +30,8 @@ Research on Efficient Diffusion Model Research
 - - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_and_Reuse)
 - - [2-4_Timestep Distallation](#_2-4_Timestep_Distallation)
 - - [2-5_New Architecture Design](#_2-5_New_Architecture_Design)
-- - [2-6_Other Methods](#-2-6_Other_Methods)
-- [Contact](#Contact)
+- - [2-6_Other Methods](#_2-6_Other_Methods)
+- [**Contact**](#Contact)
 
 
 
@@ -246,7 +244,7 @@ Research on Efficient Diffusion Model Research
 |---|---|---|---|---|
 
 
-## -2-6_Other_Methods
+## _2-6_Other_Methods
 
 | Title | arXiv | Github | WebSite| Pub. & Date |
 |---|---|---|---|---|
@@ -257,8 +255,8 @@ Research on Efficient Diffusion Model Research
 
 If you have any suggestions or find our work helpful, feel free to contact us.
 
-Homepage: University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
+  **Homepage:** University of Science and Technology of China (USTC), [Intelligent Media Computing Lab](https://faculty.ustc.edu.cn/chenzhibo).
 
-Email: ???.com
+  **Email:** ???.com
 
 If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
