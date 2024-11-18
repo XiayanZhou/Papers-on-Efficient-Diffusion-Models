@@ -1,6 +1,6 @@
 # Research-on-Efficient-Diffusion-Model-Research
 
-  **Purpose:** We aim to provide a summary of **Efficient Diffusion Model**. More papers will be summarized.
+&emsp; **Purpose:** We aim to provide a summary of **Efficient Diffusion Model**. More papers will be summarized.
 
   **Homepage:** University of Science and Technology of China (USTC), [Intelligent Media Computing Lab (IMCL)](https://faculty.ustc.edu.cn/chenzhibo).
 
