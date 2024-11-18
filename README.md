@@ -78,7 +78,7 @@
 
 | Title | arXiv | Github| WebSite | Pub. & Date |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| [Q-DM: An Efficient Low-bit Quantized Diffusion Model](https://openreview.net/forum?id=sFGkL5BsPi) | [![arXiv](https://img.shields.io/badge/OpenReview-8c1b13.svg)](https://openreview.net/forum?id=sFGkL5BsPi)] | - | - | **NeurIPS 2023** |
+| [Q-DM: An Efficient Low-bit Quantized Diffusion Model](https://openreview.net/forum?id=sFGkL5BsPi) | [![arXiv](https://img.shields.io/badge/OpenReview-8c1b13.svg)](https://openreview.net/forum?id=sFGkL5BsPi) | - | - | **NeurIPS 2023** |
 | [Effective Quantization for Diffusion Models on CPUs](https://arxiv.org/abs/2311.16133) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16133) | [![Star](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social&label=Star)](https://github.com/intel/intel-extension-for-transformers) | - | **NeurIPS 2023 Workshop** |
 | [QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](https://arxiv.org/abs/2402.03666) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03666) | [![Star](https://img.shields.io/github/stars/hatchetProject/QuEST.svg?style=social&label=Star)](https://github.com/hatchetProject/QuEST) | - | Feb 2024 |
 | [BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05662) | [![Star](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM.svg?style=social&label=Star)](https://github.com/Xingyu-Zheng/BinaryDM) | - | Apr 2024 |
