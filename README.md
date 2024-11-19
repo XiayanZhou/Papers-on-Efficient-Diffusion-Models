@@ -84,7 +84,7 @@
 ## _1-2_Pruning_and_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|---|---|---|---|---|
+|---|:-----:|:-----:|:-----:|:-----:|
 | [Diffusion Probabilistic Model Made Slim](https://arxiv.org/abs/2211.17106) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.17106) | - | - | **CVPR 2023** |
 | [Structural Pruning for Diffusion Models](https://arxiv.org/abs/2305.10924) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10924) | [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning) | - | **NeurIPS 2023** |
 | [BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion](https://arxiv.org/abs/2305.15798) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15798) | [![Star](https://img.shields.io/github/stars/Nota-NetsPresso/BK-SDM.svg?style=social&label=Star)](https://github.com/Nota-NetsPresso/BK-SDM) | - | **ECCV 2024** |
