@@ -46,7 +46,7 @@
 ### _1-1-1_Post-Traning-Quantization
 
 | Title | arXiv | Github| WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [Post-training Quantization on Diffusion Models](https://arxiv.org/abs/2211.15736) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15736) | [![Star](https://img.shields.io/github/stars/42Shawn/PTQ4DM.svg?style=social&label=Star)](https://github.com/42Shawn/PTQ4DM) | - | **CVPR 2023** |
 | [Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/abs/2302.04304) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.04304) | [![Star](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion.svg?style=social&label=Star)](https://github.com/Xiuyu-Li/q-diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuli.com/qdiffusion/) | **ICCV 2023** |
 | [PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10657) | [![Star](https://img.shields.io/github/stars/ziplab/PTQD.svg?style=social&label=Star)](https://github.com/ziplab/PTQD) | - | **NeurIPS 2023** |
@@ -74,7 +74,7 @@
 ### _1-1-2_Quantization-Aware-Traning
 
 | Title | arXiv | Github| WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [Q-DM: An Efficient Low-bit Quantized Diffusion Model](https://openreview.net/forum?id=sFGkL5BsPi) | [![arXiv](https://img.shields.io/badge/OpenReview-8c1b13.svg)](https://openreview.net/forum?id=sFGkL5BsPi) | - | - | **NeurIPS 2023** |
 | [Effective Quantization for Diffusion Models on CPUs](https://arxiv.org/abs/2311.16133) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16133) | [![Star](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social&label=Star)](https://github.com/intel/intel-extension-for-transformers) | - | **NeurIPS 2023 Workshop** |
 | [QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](https://arxiv.org/abs/2402.03666) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03666) | [![Star](https://img.shields.io/github/stars/hatchetProject/QuEST.svg?style=social&label=Star)](https://github.com/hatchetProject/QuEST) | - | Feb 2024 |
@@ -84,7 +84,7 @@
 ## _1-2_Pruning_and_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|---|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [Diffusion Probabilistic Model Made Slim](https://arxiv.org/abs/2211.17106) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.17106) | - | - | **CVPR 2023** |
 | [Structural Pruning for Diffusion Models](https://arxiv.org/abs/2305.10924) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10924) | [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning) | - | **NeurIPS 2023** |
 | [BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion](https://arxiv.org/abs/2305.15798) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15798) | [![Star](https://img.shields.io/github/stars/Nota-NetsPresso/BK-SDM.svg?style=social&label=Star)](https://github.com/Nota-NetsPresso/BK-SDM) | - | **ECCV 2024** |
