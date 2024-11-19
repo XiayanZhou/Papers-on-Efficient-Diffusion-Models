@@ -19,8 +19,6 @@
 - - - [1-1-1_PTQ_(Post-Traning-Quantization)](#_1-1-1_Post-Traning-Quantization)
 - - - [1-1-2_QAT_(Quantization-Aware-Traning)](#_1-1-2_Quantization-Aware-Traning)
 - - [1-2_Pruning_&_Structure_Distillation](#_1-2_Pruning_and_Structure_Distillation)
-- - - [1-2-1_Pruning](#_1-2-1_Pruning)
-- - - [1-2-2_Structure_Distillation](#_1-2-2_Structure_Distillation)
 - - [1-3_Feature_Cache_&_Reuse](#_1-3_Feature_Cache_and_Reuse)
 - - [1-4_Timestep_Distallation](#_1-4_Timestep_Distallation)
 - - - [1-4-1_ODE_Preserving_Distallation](#_1-4-1_ODE_Preserving_Distallation)
@@ -35,8 +33,6 @@
 - - - [2-1-1_PTQ_(Post-Traning-Quantization)](#_2-1-1_Post-Traning-Quantization)
 - - - [2-1-2_QAT_(Quantization-Aware-Traning)](#_2-1-2_Quantization-Aware-Traning)
 - - [2-2_Pruning & Structure Distillation](#_2-2_Pruning_and_Structure_Distillation)
-- - - [2-1_Pruning](#_2-2-1_Pruning)
-- - - [2-2-2_Structure Distillation](#_2-2-2_Structure_Distillation)
 - - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_and_Reuse)
 - - [2-4_Timestep Distallation](#_2-4_Timestep_Distallation)
 - - [2-5_New Architecture Design](#_2-5_New_Architecture_Design)
@@ -87,8 +83,6 @@
 
 ## _1-2_Pruning_and_Structure_Distillation
 
-### _1-2-1_Pruning 
-
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
 | [Diffusion Probabilistic Model Made Slim](https://arxiv.org/abs/2211.17106) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.17106) | - | - | **CVPR 2023** |
@@ -102,12 +96,6 @@
 | [KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis](https://arxiv.org/abs/2312.04005) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04005) | [![Star](https://img.shields.io/github/stars/youngwanLEE/sdxl-koala.svg?style=social&label=Star)](https://github.com/youngwanLEE/sdxl-koala) | [![Website](https://img.shields.io/badge/Website-9cf)](https://youngwanlee.github.io/KOALA/) | **NeurIPS 2024** |
 | [Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models](https://arxiv.org/abs/2312.13307) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13307) | - | - | Dec 2023 |
 | [A-SDM: Accelerating Stable Diffusion through Redundancy Removal and Performance Optimization](https://arxiv.org/abs/2312.15516) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15516) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://youngwanlee.github.io/KOALA/) | Dec 2023 |
-
-
-### _1-2-2_Structure_Distillation
-
-| Title | arXiv | Github | WebSite | Pub. & Date |
-|---|---|---|---|---|
 
 
 ## _1-3_Feature_Cache_and_Reuse
@@ -179,14 +167,6 @@
 
 
 ## _2-2_Pruning_and_Structure_Distillation
-
-### _2-2-1_Pruning 
-
-| Title | arXiv | Github | WebSite | Pub. & Date |
-|---|---|---|---|---|
-
-
-### _2-2-1_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
