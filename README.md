@@ -101,16 +101,18 @@
 | [SparseDM: Toward Sparse Efficient Diffusion Models](https://arxiv.org/abs/2404.10445) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10445) | - | - | Apr 2024 |
 | [LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models](https://arxiv.org/abs/2404.11098) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11098) | - | - | Apr 2024 |
 | [LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights](https://arxiv.org/abs/2404.11936) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11936) | - | - | **CVPR 2024** |
-| [LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models](https://arxiv.org/abs/2404.11098) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11098) | - | - | Apr 2024 |
 | [Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models](https://arxiv.org/abs/2408.06646) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06646) | - | - | Aug 2024 |
 | [DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture](https://arxiv.org/abs/2409.03550) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03550) | - | - | Sep 2024 |
-
+| [Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models](https://arxiv.org/abs/2409.19128) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19128) | [![Star](https://img.shields.io/github/stars/Yeez-lee/Data-Selection-and-Reweighting-for-Diffusion-Models.svg?style=social&label=Star)](https://github.com/Yeez-lee/Data-Selection-and-Reweighting-for-Diffusion-Models) | - | Sep 2024 |
+| [DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization](https://arxiv.org/abs/2410.16942) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.16942) | - | - | **NeurIPS 2024** |
 
 
 ## _1-3_Feature_Cache_and_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
+| [Diffusion Probabilistic Model Made Slim](https://arxiv.org/abs/2211.17106) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.17106) | - | - | **CVPR 2023** |
+| [Structural Pruning for Diffusion Models](https://arxiv.org/abs/2305.10924) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10924) | [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning) | - | **NeurIPS 2023** |
 
 
 ## _1-4_Timestep_Distallation
