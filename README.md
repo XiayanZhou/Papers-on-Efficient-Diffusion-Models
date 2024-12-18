@@ -111,8 +111,8 @@
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
 |---|---|---|---|---|
-| [Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models](https://arxiv.org/abs/2211.02048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02048) | [![Star](https://img.shields.io/github/stars/lmxyy/sige.svg?style=social&label=Star)](https://github.com/lmxyy/sige) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.cmu.edu/~sige/) | **NeurIPS 2022 T-PAMI 2023** |
-| [Structural Pruning for Diffusion Models](https://arxiv.org/abs/2305.17423) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17423) | [![Star](https://img.shields.io/github/stars/pku-dair/hetu.svg?style=social&label=Star)](https://github.com/pku-dair/hetu) | - | **AAAI 2024** |
+| [Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models](https://arxiv.org/abs/2211.02048) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.02048) | [![Star](https://img.shields.io/github/stars/lmxyy/sige.svg?style=social&label=Star)](https://github.com/lmxyy/sige) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.cmu.edu/~sige/) | **NeurIPS 2022, T-PAMI 2023** |
+| [Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference](https://arxiv.org/abs/2305.17423) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17423) | [![Star](https://img.shields.io/github/stars/pku-dair/hetu.svg?style=social&label=Star)](https://github.com/pku-dair/hetu) | - | **AAAI 2024** |
 
 
 ## _1-4_Timestep_Distallation
