@@ -133,12 +133,15 @@
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
 |-----|:-----:|:-----:|:-----:|:-----:|
-
+| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | **ICLR 2021** |
+| [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) | [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde) | - | **ICLR 2021 Oral** |
 
 ### _1-4-2_ODE_Reconstructing_Distallation
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
 |-----|:-----:|:-----:|:-----:|:-----:|
+| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | **ICLR 2021** |
+| [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) | [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde) | - | **ICLR 2021 Oral** |
 
 
 ## _1-5_Fast_Sampling_Solver
@@ -167,7 +170,7 @@
 | [On Accelerating Diffusion-Based Sampling Process via Improved Integration Approximation](https://arxiv.org/abs/2304.11328) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11328) | - | - | **ICLR 2023** |
 | [SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models](https://arxiv.org/abs/2305.14267) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14267) | [![Star](https://img.shields.io/github/stars/nfsrules/seeds.svg?style=social&label=Star)](https://github.com/nfsrules/seeds) | - | **NeurIPS 2023** |
 | [Restart Sampling for Improving Generative Processes](https://arxiv.org/abs/2306.14878) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14878) | [![Star](https://img.shields.io/github/stars/Newbeeer/diffusion_restart_sampling.svg?style=social&label=Star)](https://github.com/Newbeeer/diffusion_restart_sampling) | - | **NeurIPS 2023** |
-| [Learning to Schedule in Diffusion Probabilistic Models](https://dl.acm.org/doi/abs/10.1145/3580305.3599412) | [![arXiv](https://img.shields.io/badge/ACM-000000.svg)](https://dl.acm.org/doi/abs/10.1145/3580305.3599412) | - | - | **ACM KDD 2023** |
+| [Learning to Schedule in Diffusion Probabilistic Models](https://dl.acm.org/doi/abs/10.1145/3580305.3599412) | [![arXiv](https://img.shields.io/badge/ACM-000000.svg)](https://dl.acm.org/doi/abs/10.1145/3580305.3599412) | - | - | **ACM SIGKDD 2023** |
 | [SciRE-Solver: Accelerating Diffusion Models Sampling by Score-integrand Solver with Recursive Difference](https://arxiv.org/abs/2308.07896) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07896) | [![Star](https://img.shields.io/github/stars/ShiguiLi/scire-solver.svg?style=social&label=Star)](https://github.com/ShiguiLi/scire-solver) | - | Aug 2023 |
 | [SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2309.05019) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.05019) | [![Star](https://img.shields.io/github/stars/scxue/SA-Solver.svg?style=social&label=Star)](https://github.com/scxue/SA-Solver) | - | **NeurIPS 2023** |
 | [DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics](https://arxiv.org/abs/2310.13268) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.13268) | [![Star](https://img.shields.io/github/stars/thu-ml/DPM-Solver-v3.svg?style=social&label=Star)](https://github.com/thu-ml/DPM-Solver-v3) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ml.cs.tsinghua.edu.cn/dpmv3/) | **NeurIPS 2023** |
@@ -183,6 +186,18 @@
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
 |-----|:-----:|:-----:|:-----:|:-----:|
+| [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://arxiv.org/abs/2112.07804) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.07804) | [![Star](https://img.shields.io/github/stars/NVlabs/denoising-diffusion-gan.svg?style=social&label=Star)](https://github.com/NVlabs/denoising-diffusion-gan) | - | **ICLR 2022 Spotlight** |
+| [Diffusion-GAN: Training GANs with Diffusion](https://arxiv.org/abs/2206.02262) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.02262) | [![Star](https://img.shields.io/github/stars/Zhendong-Wang/Diffusion-GAN.svg?style=social&label=Star)](https://github.com/Zhendong-Wang/Diffusion-GAN) | - | **ICLR 2023** |
+| [Semi-Implicit Denoising Diffusion Models (SIDDMs)](https://arxiv.org/abs/2306.12511) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.12511) | [![Star](https://img.shields.io/github/stars/xuyanwu/SIDDMs-UFOGen.svg?style=social&label=Star)](https://github.com/xuyanwu/SIDDMs-UFOGen) | - | **NeurIPS 2023** |
+| [Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion](https://arxiv.org/abs/2310.02279) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02279) | [![Star](https://img.shields.io/github/stars/sony/ctm.svg?style=social&label=Star)](https://github.com/sony/ctm) | [![Website](https://img.shields.io/badge/Website-9cf)](https://consistencytrajectorymodel.github.io/CTM/) | **ICLR 2024** |
+| [UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09257) | [![Star](https://img.shields.io/github/stars/xuyanwu/SIDDMs-UFOGen.svg?style=social&label=Star)](https://github.com/xuyanwu/SIDDMs-UFOGen) | - | **CVPR 2024** |
+| [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17042) | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models) | - | **ECCV 2025** |
+| [SDXL-Lightning: Progressive Adversarial Diffusion Distillation](https://arxiv.org/abs/2402.13929) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13929) | [![Star](https://img.shields.io/github/stars/inferless/SDXL-Lightning.svg?style=social&label=Star)](https://github.com/inferless/SDXL-Lightning) | - | Feb 2024 |
+| [Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://arxiv.org/abs/2403.12015) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12015) | - | - | **ACM SIGGRAPH Asia 2024** |
+| [UniFL: Improve Latent Diffusion Model via Unified Feedback Learning](https://arxiv.org/abs/2404.05595) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05595) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://uni-fl.github.io/) | **NeurIPS 2024** |
+| [Improved Distribution Matching Distillation for Fast Image Synthesis](https://arxiv.org/abs/2405.14867) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14867) | [![Star](https://img.shields.io/github/stars/tianweiy/DMD2.svg?style=social&label=Star)](https://github.com/tianweiy/DMD2) | [![Website](https://img.shields.io/badge/Website-9cf)](https://tianweiy.github.io/dmd2/) | **NeurIPS 2024 Oral** |
+| [Latent Denoising Diffusion GAN: Faster Sampling, Higher Image Quality](https://arxiv.org/abs/2406.11713) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11713) | [![Star](https://img.shields.io/github/stars/Zhendong-Wang/Diffusion-GAN.svg?style=social&label=Star)](https://github.com/Zhendong-Wang/Diffusion-GAN) | - | **IEEE Access 2024** |
+| [NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training](https://arxiv.org/abs/2412.02030) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02030) | [![Star](https://img.shields.io/github/stars/ChenDarYen/NitroFusion.svg?style=social&label=Star)](https://github.com/ChenDarYen/NitroFusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chendaryen.github.io/NitroFusion.github.io/) | Dec 2024 |
 
 
 ## _1-7_Efficient_Training
@@ -213,6 +228,8 @@
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+| [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | [![Website](https://img.shields.io/badge/Website-9cf)](https://chendaryen.github.io/NitroFusion.github.io/) | **ICLR 2021** |
+| [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) | [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde) | - | **ICLR 2021 Oral** |
 
 
 ### _2-1-2_Quantization-Aware-Traning
