@@ -1,9 +1,9 @@
-# Papers-on-Efficient-Diffusion-Models
+# 🚀 Papers-on-Efficient-Diffusion-Models
 
 
 &emsp; &emsp; **Purpose:** We aim to provide a summary of **Efficient Diffusion Models**. More papers will be summarized.
 
-&emsp; &emsp; **Homepage:** University of Science and Technology of China **(USTC)**, [Intelligent Media Computing Lab **(IMCL)**](https://faculty.ustc.edu.cn/chenzhibo)**.
+&emsp; &emsp; **Homepage:** University of Science and Technology of China ***(USTC)***, [Intelligent Media Computing Lab ***(IMCL)***](https://faculty.ustc.edu.cn/chenzhibo)**.
 
 &emsp; &emsp; **Email:** xxxxxxx@mail.ustc.edu.cn
 
@@ -12,7 +12,7 @@
 &emsp; &emsp; &emsp; &emsp; If you find our survey is useful in your research or applications, please consider giving us a star 🌟.
 
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [**1_U-Net_Architecture**](#_1_U-Net_Architecture)
 - - [1-1_Quantization](#_1-1_Quantization)
@@ -230,7 +230,7 @@
 ### _2-1-1_Post-Traning-Quantization
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [TerDiT: Ternary Diffusion Models with Transformers](https://arxiv.org/abs/2405.14854) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14854) | [![Star](https://img.shields.io/github/stars/Lucky-Lance/TerDiT.svg?style=social&label=Star)](https://github.com/Lucky-Lance/TerDiT) | - | May 2024 |
 | [PTQ4DiT: Post-training Quantization for Diffusion Transformers](https://arxiv.org/abs/2405.16005) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16005) | [![Star](https://img.shields.io/github/stars/adreamwu/PTQ4DiT.svg?style=social&label=Star)](https://github.com/adreamwu/PTQ4DiT) | - | **NeurIPS 2024** |
 | [HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization](https://arxiv.org/abs/2405.19751) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19751) | - | - | May 2024 |
@@ -245,13 +245,13 @@
 ### _2-1-2_Quantization-Aware-Traning
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 
 
 ## _2-2_Pruning_and_Structure_Distillation
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization](https://arxiv.org/abs/2410.16942) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.16942) | - | - | **NeurIPS 2024** |
 | [TinyFusion: Diffusion Transformers Learned Shallow](https://arxiv.org/abs/2412.01199) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01199) | [![Star](https://img.shields.io/github/stars/VainF/TinyFusion.svg?style=social&label=Star)](https://github.com/VainF/TinyFusion) | - | Dec 2024 |
 
@@ -259,7 +259,7 @@
 ## _2-3_Feature_Cache_and_Reuse
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 | [Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers](https://arxiv.org/abs/2406.01125) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01125) | - | - | Jun 2024 |
 | [Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching](https://arxiv.org/abs/2406.01733) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01733) | [![Star](https://img.shields.io/github/stars/horseee/learning-to-cache.svg?style=social&label=Star)](https://github.com/horseee/learning-to-cache) | - | **NeurIPS 2024** |
 | [DiTFastAttn: Attention Compression for Diffusion Transformer Models](https://arxiv.org/abs/2406.08552) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08552) | [![Star](https://img.shields.io/github/stars/thu-nics/DiTFastAttn.svg?style=social&label=Star)](https://github.com/thu-nics/DiTFastAttn) | [![Website](https://img.shields.io/badge/Website-9cf)](https://nics-effalg.com/DiTFastAttn) | **NeurIPS 2024** |
@@ -281,17 +281,17 @@
 ## _2-4_Timestep_Distallation
 
 | Title | arXiv | Github | WebSite | Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 
 
 ## _2-5_New_Architecture_Design
 
 | Title | arXiv | Github | WebSite| Pub. or Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 
 
 ## _2-6_Other_Methods
 
 | Title | arXiv | Github | WebSite| Pub. or Date |
-|---|---|---|---|---|
+|-----|:-----:|:-----:|:-----:|:-----:|
 
