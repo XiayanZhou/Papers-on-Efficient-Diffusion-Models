@@ -45,10 +45,10 @@
 
 ### _1-1-1_Post-Traning-Quantization
 
-| Title | arXiv | Github | WebSite | Pub. or Date |
-|-----|:-----:|:-----:|:-----:|:-----:|
-| [Post-training Quantization on Diffusion Models](https://arxiv.org/abs/2211.15736) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15736) | [![Star](https://img.shields.io/github/stars/42Shawn/PTQ4DM.svg?style=social&label=Star)](https://github.com/42Shawn/PTQ4DM) | - | **CVPR 2023** |
-| [Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/abs/2302.04304) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.04304) | [![Star](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion.svg?style=social&label=Star)](https://github.com/Xiuyu-Li/q-diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuli.com/qdiffusion/) | **ICCV 2023** |
+| No. | Title | arXiv | Github | WebSite | Pub. or Date |
+|:-----:|-----|:-----:|:-----:|:-----:|:-----:|
+| 1 | [Post-training Quantization on Diffusion Models](https://arxiv.org/abs/2211.15736) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15736) | [![Star](https://img.shields.io/github/stars/42Shawn/PTQ4DM.svg?style=social&label=Star)](https://github.com/42Shawn/PTQ4DM) | - | **CVPR 2023** |
+| [2] | [Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/abs/2302.04304) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.04304) | [![Star](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion.svg?style=social&label=Star)](https://github.com/Xiuyu-Li/q-diffusion) | [![Website](https://img.shields.io/badge/Website-9cf)](https://xiuyuli.com/qdiffusion/) | **ICCV 2023** |
 | [PTQD: Accurate Post-Training Quantization for Diffusion Models](https://arxiv.org/abs/2305.10657) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10657) | [![Star](https://img.shields.io/github/stars/ziplab/PTQD.svg?style=social&label=Star)](https://github.com/ziplab/PTQD) | - | **NeurIPS 2023** |
 | [Towards Accurate Post-training Quantization for Diffusion Models](https://arxiv.org/abs/2305.18723) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18723) | [![Star](https://img.shields.io/github/stars/junhyukso/tdq.svg?style=social&label=Star)](https://github.com/junhyukso/tdq) | - | **NeurIPS 2023** |
 | [Temporal Dynamic Quantization for Diffusion Models](https://arxiv.org/abs/2306.02316) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02316) | - | - | Jun 2023 |
