@@ -220,19 +220,34 @@
 | [14] | [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | Dec 2024 |
 
 
-## _1-7_Efficient_Training
+## _1-7_Efficient_and_Sparse_Attention
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _1-8_New_Architecture_Design
+## _1-8_Token Merging_and_Pruning
+
+| No. | Title | arXiv | Github | WebSite | Pub. or Date |
+|:-----:|-----|:-----:|:-----:|:-----:|:-----:|
+| [1] | [Token Merging for Fast Stable Diffusion](https://arxiv.org/abs/2303.17604) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17604) | [![Star](https://img.shields.io/github/stars/dbolya/tomesd.svg?style=social&label=Star)](https://github.com/dbolya/tomesd) | - | **CVPR Workshop 2023** |
+| [2] | [VidToMe: Video Token Merging for Zero-Shot Video Editing](https://arxiv.org/abs/2312.10656) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.10656) | [![Star](https://img.shields.io/github/stars/lixirui142/VidToMe.svg?style=social&label=Star)](https://github.com/lixirui142/VidToMe) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vidtome-diffusion.github.io/) | **CVPR 2024** |
+| [3] | [ToDo: Token Downsampling for Efficient Generation of High-Resolution Images](https://arxiv.org/abs/2402.13573) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13573) | - | - | **IJCAI 2024** |
+
+
+## _1-9_Efficient_Training
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _1-9_Other_Methods
+## _1-10_New_Architecture_Design
+
+| No. | Title | arXiv | Github | WebSite | Pub. or Date |
+|:-----:|-----|:-----:|:-----:|:-----:|:-----:|
+
+
+## _1-11_Other_Methods
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
@@ -309,13 +324,25 @@
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-5_New_Architecture_Design
+## _2-5_Efficient_and_Sparse_Attention
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-6_Other_Methods
+## _2-6_Token_Merging_and_Pruning
+
+| No. | Title | arXiv | Github | WebSite | Pub. or Date |
+|:-----:|-----|:-----:|:-----:|:-----:|:-----:|
+
+
+## _2-7_New_Architecture_Design
+
+| No. | Title | arXiv | Github | WebSite | Pub. or Date |
+|:-----:|-----|:-----:|:-----:|:-----:|:-----:|
+
+
+## _2-8_Other_Methods
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
