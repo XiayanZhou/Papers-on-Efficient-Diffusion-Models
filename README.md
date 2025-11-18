@@ -21,8 +21,8 @@
 - - [1-2_Pruning_&_Structure_Distillation](#_1-2_Pruning_and_Structure_Distillation)
 - - [1-3_Feature_Cache_&_Reuse](#_1-3_Feature_Cache_and_Reuse)
 - - [1-4_Timestep_Distallation](#_1-4_Timestep_Distallation)
-- - - [1-4-1_ODE_Preserving_Distallation](#_1-4-1_ODE_Preserving_Distallation)
-- - - [1-4-2_ODE_Reconstructing_Distallation](#_1-4-2_ODE_Reconstructing_Distallation)
+- - - [1-4-1_ODE_Preserving_Distillation](#_1-4-1_ODE_Preserving_Distillation)
+- - - [1-4-2_ODE_Reconstructing_Distillation](#_1-4-2_ODE_Reconstructing_Distillation)
 - - [1-5_Fast_Sampling_Solver](#_1-.5_Fast_Sampling_Solver)
 - - [1-6_GAN-Based_Method](#_1-6_GAN-Based_Method)
 - - [1-7_Efficient_Attention](#_1-7_Efficient_Attention)
@@ -166,14 +166,14 @@
 
 ## _1-4_Timestep_Distillation
 
-### _1-4-1_ODE_Preserving_Distallation
+### _1-4-1_ODE_Preserving_Distillation
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 | [1] | [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) | [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) | - | **ICLR 2021** |
 | [2] | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) | [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde) | - | **ICLR 2021 Oral** |
 
-### _1-4-2_ODE_Reconstructing_Distallation
+### _1-4-2_ODE_Reconstructing_Distillation
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
