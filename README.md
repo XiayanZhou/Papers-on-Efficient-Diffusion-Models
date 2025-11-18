@@ -25,10 +25,10 @@
 - - - [1-4-2_ODE_Reconstructing_Distallation](#_1-4-2_ODE_Reconstructing_Distallation)
 - - [1-5_Fast_Sampling_Solver](#_1-.5_Fast_Sampling_Solver)
 - - [1-6_GAN-Based_Method](#_1-6_GAN-Based_Method)
-- - [1-7_Efficient_and_Sparse_Attention](#_1-7_Efficient_and_Sparse_Attention)
-- - [1-8_Token_Merging_and_Pruning](#_1-8_Token_Merging_and_Pruning)
+- - [1-7_Efficient_Attention](#_1-7_Efficient_Attention)
+- - [1-8_Token_Compression](#_1-8_Token_Compression)
 - - [1-9_Efficient_Training](#_1-9_Efficient_Training)
-- - [1-10_New_Architecture_Design](#_1-10_New_Architecture_Design)
+- - [1-10_New_Architecture](#_1-10_New_Architecture)
 - - [1-11_Other_Methods](#_1-11_Other_Methods)
 - [**2_Transformer Architecture**](#_2_Transformer_Architecture)
 - - [2-1_Quantization](#_2-1_Quantization)
@@ -37,9 +37,9 @@
 - - [2-2_Pruning & Structure Distillation](#_2-2_Pruning_and_Structure_Distillation)
 - - [2-3_Feature Cache & Reuse](#_2-3_Feature_Cache_and_Reuse)
 - - [2-4_Timestep Distallation](#_2-4_Timestep_Distallation)
-- - [2-5_Efficient and Sparse Attention](#_2-5_Efficient_and_Sparse_Attention)
-- - [2-6_Token Merging and Pruning](#_2-6_Token_Merging_and_Pruning)
-- - [2-7_New Architecture Design](#_2-7_New_Architecture_Design)
+- - [2-5_Efficient Attention](#_2-5_Efficient_Attention)
+- - [2-6_Token Compression](#_2-6_Token_Compression)
+- - [2-7_New Architecture](#_2-7_New_Architecture)
 - - [2-8_Other Methods](#_2-8_Other_Methods)
 
 
@@ -87,6 +87,17 @@
 | [34] | [Q&C: When Quantization Meets Cache in Efficient Image Generation](https://arxiv.org/abs/2503.02508) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.02508) | [![Star](https://img.shields.io/github/stars/xinding-sys/Quant-Cache.svg?style=social&label=Star)](https://github.com/xinding-sys/Quant-Cache) | - | Mar 2025 |
 | [35] | [SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08668) | [![Star](https://img.shields.io/github/stars/list0830/SSVQ.svg?style=social&label=Star)](https://github.com/list0830/SSVQ) | - | Mar 2025 |
 | [36] | [Efficient Personalization of Quantized Diffusion Model without Backpropagation](https://arxiv.org/abs/2503.14868) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14868) | [![Star](https://img.shields.io/github/stars/ignoww/ZOODiP.svg?style=social&label=Star)](https://github.com/ignoww/ZOODiP) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ignoww.github.io/ZOODiP_project/) | **CVPR 2025** |
+| [37] | [Quantizing Diffusion Models from a Sampling-Aware Perspective](https://arxiv.org/abs/2505.02242) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02242) | - | - | May 2025 |
+| [38] | [Pioneering 4-Bit FP Quantization for Diffusion Models: Mixup-Sign Quantization and Timestep-Aware Fine-Tuning](https://arxiv.org/abs/2505.21591) | - | - | **CVPR 2025** |
+| [39] | [AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models](https://arxiv.org/abs/2506.05960) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05960) | - | - | June 2025 |
+| [40] | [PQCAD-DM: Progressive Quantization and Calibration-Assisted Distillation for Extremely Efficient Diffusion Model](https://arxiv.org/abs/2506.16776) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16776) | - | - | June 2025 |
+| [41] | [Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization](https://arxiv.org/abs/2506.22463) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.22463) | [![Star](https://img.shields.io/github/stars/WeizhiGao/MoDiff.svg?style=social&label=Star)](https://github.com/WeizhiGao/MoDiff) | - | **ICML 2025** |
+| [42] | [MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04290) | - | - | July 2025 |
+| [43] | [Text Embedding Knows How to Quantize Text-Guided Diffusion Models](https://arxiv.org/abs/2507.10340) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.10340) | [![Star](https://img.shields.io/github/stars/jimmy9704/QLIP.svg?style=social&label=Star)](https://github.com/jimmy9704/QLIP) | - | **ICCV 2025** |
+| [43] | [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/abs/2507.12933) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12933) | [![Star](https://img.shields.io/github/stars/LeeDongYeun/dmq.svg?style=social&label=Star)](https://github.com/LeeDongYeun/dmq) | - | **ICCV 2025** |
+| [44] | [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](https://arxiv.org/abs/2507.14811) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.14811) | - | - | July 2025 |
+| [45] | [Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion](https://arxiv.org/abs/2508.12094) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12094) | - | - | Aug 2025 |
+| [46] | [Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](https://arxiv.org/abs/2509.01624) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01624) | - | - | Sep 2025 |
 
 
 
@@ -98,6 +109,7 @@
 | [2] | [Effective Quantization for Diffusion Models on CPUs](https://arxiv.org/abs/2311.16133) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16133) | [![Star](https://img.shields.io/github/stars/intel/intel-extension-for-transformers.svg?style=social&label=Star)](https://github.com/intel/intel-extension-for-transformers) | - | **NeurIPS 2023 Workshop** |
 | [3] | [QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](https://arxiv.org/abs/2402.03666) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03666) | [![Star](https://img.shields.io/github/stars/hatchetProject/QuEST.svg?style=social&label=Star)](https://github.com/hatchetProject/QuEST) | - | Feb 2024 |
 | [4] | [BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05662) | [![Star](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM.svg?style=social&label=Star)](https://github.com/Xingyu-Zheng/BinaryDM) | - | **NeurIPS 2024 Workshop** |
+| [5] | [CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model](https://arxiv.org/abs/2504.07998) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07998) | - | - | **ISCAS 2025** |
 
 
 ## _1-2_Pruning_and_Structure_Distillation
@@ -152,7 +164,7 @@
 | [20] | [CacheQuant: Comprehensively Accelerated Diffusion Models](https://arxiv.org/abs/2503.01323) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01323) | [![Star](https://img.shields.io/github/stars/BienLuky/CacheQuant.svg?style=social&label=Star)](https://github.com/BienLuky/CacheQuant) | - | **CVPR 2025** |
 
 
-## _1-4_Timestep_Distallation
+## _1-4_Timestep_Distillation
 
 ### _1-4-1_ODE_Preserving_Distallation
 
@@ -228,13 +240,13 @@
 | [14] | [From Slow Bidirectional to Fast Causal Video Generators](https://arxiv.org/abs/2412.07772) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772) | - | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | Dec 2024 |
 
 
-## _1-7_Efficient_and_Sparse_Attention
+## _1-7_Efficient_Attention
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _1-8_Token Merging_and_Pruning
+## _1-8_Token_Compression
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
@@ -326,25 +338,25 @@
 | [18] | [Accelerating Diffusion Transformers with Dual Feature Caching](https://arxiv.org/abs/2412.11706) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11706) | [![Star](https://img.shields.io/github/stars/Shenyi-Z/DuCa.svg?style=social&label=Star)](https://github.com/Shenyi-Z/DuCa) | [![Website](https://img.shields.io/badge/Website-9cf)](https://duca2024.github.io/DuCa/) | Dec 2024 |
 
 
-## _2-4_Timestep_Distallation
+## _2-4_Timestep_Distillation
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-5_Efficient_and_Sparse_Attention
+## _2-5_Efficient_Attention
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-6_Token_Merging_and_Pruning
+## _2-6_Token_Compression
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
 
 
-## _2-7_New_Architecture_Design
+## _2-7_New_Architecture
 
 | No. | Title | arXiv | Github | WebSite | Pub. or Date |
 |:-----:|-----|:-----:|:-----:|:-----:|:-----:|
